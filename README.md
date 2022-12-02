@@ -13,3 +13,7 @@ You can run the app with:
     ./gradlew npm_start
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
+
+
+
+We finally did it !, i installed jenkins and ran a successful build for the first time. 12/02/2022
